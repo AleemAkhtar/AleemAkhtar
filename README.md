@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Developer for 11+ Years. Always ready to learn something new.
+Passionate Computer Science teacher and software engineer specializing in Web applications, Programming, and Cross-platform solutions. Building intuitive, cross-platform apps and shaping the next generation of developers.
 
 
 ## 🌐 Socials:
